@@ -1,0 +1,40 @@
+D:\Проги\C#\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.exe
+D:\Проги\C#\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.deps.json
+D:\Проги\C#\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.runtimeconfig.json
+D:\Проги\C#\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.runtimeconfig.dev.json
+D:\Проги\C#\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.dll
+D:\Проги\C#\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.pdb
+D:\Проги\C#\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.csproj.AssemblyReference.cache
+D:\Проги\C#\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проги\C#\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.AssemblyInfoInputs.cache
+D:\Проги\C#\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.AssemblyInfo.cs
+D:\Проги\C#\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.csproj.CoreCompileInputs.cache
+D:\Проги\C#\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.dll
+D:\Проги\C#\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.pdb
+D:\Проги\C#\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.genruntimeconfig.cache
+F:\Ли Александр\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.exe
+F:\Ли Александр\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.deps.json
+F:\Ли Александр\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.runtimeconfig.json
+F:\Ли Александр\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.runtimeconfig.dev.json
+F:\Ли Александр\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.dll
+F:\Ли Александр\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.pdb
+F:\Ли Александр\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.csproj.AssemblyReference.cache
+F:\Ли Александр\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.AssemblyInfoInputs.cache
+F:\Ли Александр\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.AssemblyInfo.cs
+F:\Ли Александр\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.csproj.CoreCompileInputs.cache
+F:\Ли Александр\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.dll
+F:\Ли Александр\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.pdb
+F:\Ли Александр\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.genruntimeconfig.cache
+D:\Ли Александр\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.exe
+D:\Ли Александр\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.deps.json
+D:\Ли Александр\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.runtimeconfig.json
+D:\Ли Александр\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.runtimeconfig.dev.json
+D:\Ли Александр\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.dll
+D:\Ли Александр\hw2\hw2\bin\Debug\netcoreapp3.1\hw2.pdb
+D:\Ли Александр\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.csproj.AssemblyReference.cache
+D:\Ли Александр\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.AssemblyInfoInputs.cache
+D:\Ли Александр\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.AssemblyInfo.cs
+D:\Ли Александр\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.csproj.CoreCompileInputs.cache
+D:\Ли Александр\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.dll
+D:\Ли Александр\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.pdb
+D:\Ли Александр\hw2\hw2\obj\Debug\netcoreapp3.1\hw2.genruntimeconfig.cache
